@@ -1,8 +1,8 @@
 const axios = require("axios");
 
-const SYMBOL = "SOLUSDT";  //"BTCUSDT";
-const BUY_PRICE = 14098;
-const SELL_PRICE = 14758;
+const SYMBOL =  "ARBUSDT";  //"SOLUSDT";  //"BTCUSDT";
+const BUY_PRICE = 0.5539;
+const SELL_PRICE = 0.5672;
 
 const API_URL = "https://testnet.binance.vision";
 
